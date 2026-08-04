@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local sqlite data
+/data/
+
+# Copyrighted study material and anything derived from it. The app references
+# these books; it never ships their contents.
+/reference-materials/
+/local/
